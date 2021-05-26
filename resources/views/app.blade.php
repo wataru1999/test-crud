@@ -23,7 +23,7 @@
                     <a class="nav-link" href="#">TEST</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">POKEMON</a>
+                    <a class="nav-link" href="#gu">tae</a>
                   </li>
                 </ul>
 
